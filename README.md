@@ -2,8 +2,10 @@
 ---
 
 # **TOPLOGGER v6.3.5 - Advanced Keylogger**
-![toplogger1](https://i.ibb.co/Vc48Mk0N/toplogger1.png)[![toplogger1](https://i.ibb.co/Vc48Mk0N/toplogger1.png)](https://ibb.co/Q3wGYx7c)
-![toplogger2](https://i.ibb.co/PvtZHzYf/toplogger2.png)[![toplogger2](https://i.ibb.co/PvtZHzYf/toplogger2.png)](https://ibb.co/4nJZrgf5)
+![toplogger1](https://i.ibb.co/Vc48Mk0N/toplogger1.png)
+[![toplogger1](https://i.ibb.co/Vc48Mk0N/toplogger1.png)](https://ibb.co/Q3wGYx7c)
+![toplogger2](https://i.ibb.co/PvtZHzYf/toplogger2.png)
+[![toplogger2](https://i.ibb.co/PvtZHzYf/toplogger2.png)](https://ibb.co/4nJZrgf5)
 **Professional Digital Monitoring Software for Authorized Use Only**
 
 ## ⚠️ **LEGAL DISCLAIMER**
