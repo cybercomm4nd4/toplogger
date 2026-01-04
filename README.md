@@ -3,8 +3,19 @@
 
 # **TOPLOGGER v6.3.5 - Advanced Keylogger**
 
-![toplogger1](./images/toplogger1.png)
-[![toplogger1](./images/toplogger1.png)](https://ibb.co/Q3wGYx7c)
+<div align="center">
+  <a href="https://ibb.co/Q3wGYx7c">
+    <img src="https://i.ibb.co/Vc48Mk0N/toplogger1.png" alt="TopLogger Image 1" border="0"><br>
+    <em>Image 1: TopLogger Interface</em>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://ibb.co/4nJZrgf5">
+    <img src="https://i.ibb.co/PvtZHzYf/toplogger2.png" alt="TopLogger Image 2" border="0"><br>
+    <em>Image 2: TopLogger Dashboard</em>
+  </a>
+</div>
 
 **Professional Digital Monitoring Software for Authorized Use Only**
 
