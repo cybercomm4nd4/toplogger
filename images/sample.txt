@@ -1,0 +1,286 @@
+ **TOPLOGGER KEYSTROKE LOG**
+ession ID: TLG-2023-0A1B2C3D4E5F
+System: DESKTOP-ALPHA | User: JohnDoe
+Monitoring Start: 2023-10-26 08:15:32
+========================================
+
+[2023-10-26 08:15:45] [APPLICATION: Chrome.exe] [WINDOW: New Tab - Google Chrome]
+    KeyPress: [TAB]
+    KeyPress: [TAB]
+    KeyPress: [TAB]
+    KeyPress: www
+    KeyPress: .
+    KeyPress: google
+    KeyPress: .
+    KeyPress: com
+    KeyPress: [ENTER]
+
+[2023-10-26 08:16:12] [APPLICATION: Chrome.exe] [WINDOW: google - Google Search - Google Chrome]
+    KeyPress: g
+    KeyPress: m
+    KeyPress: a
+    KeyPress: i
+    KeyPress: l
+    KeyPress: [ENTER]
+
+[2023-10-26 08:16:45] [APPLICATION: Chrome.exe] [WINDOW: Gmail - Google Chrome]
+    KeyPress: j
+    KeyPress: o
+    KeyPress: h
+    KeyPress: n
+    KeyPress: .
+    KeyPress: d
+    KeyPress: o
+    KeyPress: e
+    KeyPress: @
+    KeyPress: g
+    KeyPress: m
+    KeyPress: a
+    KeyPress: i
+    KeyPress: l
+    KeyPress: .
+    KeyPress: c
+    KeyPress: o
+    KeyPress: m
+    KeyPress: [TAB]
+    KeyPress: [SHIFT DOWN]
+    KeyPress: S
+    KeyPress: [SHIFT UP]
+    KeyPress: e
+    KeyPress: c
+    KeyPress: r
+    KeyPress: 3
+    KeyPress: t
+    KeyPress: P
+    KeyPress: @
+    KeyPress: $
+    KeyPress: S
+    KeyPress: [ENTER]
+
+[2023-10-26 08:17:30] [APPLICATION: Chrome.exe] [WINDOW: Inbox (1,247) - john.doe@gmail.com - Gmail - Google Chrome]
+    KeyPress: [CTRL DOWN]
+    KeyPress: n
+    KeyPress: [CTRL UP]
+    
+[2023-10-26 08:17:45] [APPLICATION: Chrome.exe] [WINDOW: Compose - john.doe@gmail.com - Gmail - Google Chrome]
+    KeyPress: [TAB]
+    KeyPress: s
+    KeyPress: a
+    KeyPress: l
+    KeyPress: e
+    KeyPress: s
+    KeyPress: @
+    KeyPress: a
+    KeyPress: c
+    KeyPress: m
+    KeyPress: e
+    KeyPress: .
+    KeyPress: c
+    KeyPress: o
+    KeyPress: m
+    KeyPress: [TAB]
+    KeyPress: [TAB]
+    KeyPress: [SHIFT DOWN]
+    KeyPress: Q
+    KeyPress: [SHIFT UP]
+    KeyPress: 4
+    KeyPress: 
+    KeyPress: r
+    KeyPress: e
+    KeyPress: v
+    KeyPress: e
+    KeyPress: n
+    KeyPress: u
+    KeyPress: e
+    KeyPress: 
+    KeyPress: r
+    KeyPress: e
+    KeyPress: p
+    KeyPress: o
+    KeyPress: r
+    KeyPress: t
+    KeyPress: [TAB]
+    KeyPress: [SHIFT DOWN]
+    KeyPress: H
+    KeyPress: [SHIFT UP]
+    KeyPress: i
+    KeyPress: 
+    KeyPress: M
+    KeyPress: a
+    KeyPress: r
+    KeyPress: k
+    KeyPress: ,
+    
+    KeyPress: [ENTER]
+    KeyPress: [ENTER]
+    
+    KeyPress: T
+    KeyPress: h
+    KeyPress: e
+    KeyPress: 
+    KeyPress: Q
+    KeyPress: 4
+    KeyPress: 
+    KeyPress: r
+    KeyPress: e
+    KeyPress: v
+    KeyPress: e
+    KeyPress: n
+    KeyPress: u
+    KeyPress: e
+    KeyPress: 
+    KeyPress: i
+    KeyPress: s
+    KeyPress: 
+    KeyPress: a
+    KeyPress: t
+    KeyPress: t
+    KeyPress: a
+    KeyPress: c
+    KeyPress: h
+    KeyPress: e
+    KeyPress: d
+    KeyPress: .
+    
+    KeyPress: [ENTER]
+    KeyPress: [ENTER]
+    
+    KeyPress: [
+    KeyPress: SHIFT DOWN
+    KeyPress: ]
+    KeyPress: T
+    KeyPress: o
+    KeyPress: t
+    KeyPress: a
+    KeyPress: l
+    KeyPress: 
+    KeyPress: :
+    KeyPress: 
+    KeyPress: $
+    KeyPress: 4
+    KeyPress: 5
+    KeyPress: ,
+    KeyPress: 6
+    KeyPress: 7
+    KeyPress: 8
+    KeyPress: .
+    KeyPress: 9
+    KeyPress: 0
+    KeyPress: 
+    
+    KeyPress: [ENTER]
+    KeyPress: [ENTER]
+    
+    KeyPress: T
+    KeyPress: h
+    KeyPress: a
+    KeyPress: n
+    KeyPress: k
+    KeyPress: s
+    KeyPress: ,
+    
+    KeyPress: [ENTER]
+    KeyPress: [ENTER]
+    
+    KeyPress: J
+    KeyPress: o
+    KeyPress: h
+    KeyPress: n
+    KeyPress: 
+    KeyPress: D
+    KeyPress: o
+    KeyPress: e
+    KeyPress: [CTRL DOWN]
+    KeyPress: v
+    KeyPress: [CTRL UP]
+
+[2023-10-26 08:19:10] [APPLICATION: Explorer.exe] [WINDOW: Documents]
+    KeyPress: [WIN DOWN]
+    KeyPress: e
+    KeyPress: [WIN UP]
+    KeyPress: [CTRL DOWN]
+    KeyPress: l
+    KeyPress: [CTRL UP]
+    KeyPress: C
+    KeyPress: :
+    KeyPress: \
+    KeyPress: U
+    KeyPress: s
+    KeyPress: e
+    KeyPress: r
+    KeyPress: s
+    KeyPress: \
+    KeyPress: J
+    KeyPress: o
+    KeyPress: h
+    KeyPress: n
+    KeyPress: D
+    KeyPress: o
+    KeyPress: e
+    KeyPress: \
+    KeyPress: D
+    KeyPress: o
+    KeyPress: c
+    KeyPress: u
+    KeyPress: m
+    KeyPress: e
+    KeyPress: n
+    KeyPress: t
+    KeyPress: s
+    KeyPress: [ENTER]
+    KeyPress: Q
+    KeyPress: 4
+    KeyPress: _
+    KeyPress: R
+    KeyPress: e
+    KeyPress: v
+    KeyPress: e
+    KeyPress: n
+    KeyPress: u
+    KeyPress: e
+    KeyPress: _
+    KeyPress: R
+    KeyPress: e
+    KeyPress: p
+    KeyPress: o
+    KeyPress: r
+    KeyPress: t
+    KeyPress: .
+    KeyPress: x
+    KeyPress: l
+    KeyPress: s
+    KeyPress: x
+    KeyPress: [ENTER]
+
+[2023-10-26 08:20:05] [APPLICATION: Excel.exe] [WINDOW: Q4_Revenue_Report.xlsx - Excel]
+    KeyPress: [CTRL DOWN]
+    KeyPress: s
+    KeyPress: [CTRL UP]
+    KeyPress: [ALT DOWN]
+    KeyPress: f
+    KeyPress: 4
+    KeyPress: [ALT UP]
+
+[2023-10-26 08:20:45] [APPLICATION: Chrome.exe] [WINDOW: Chrome]
+    KeyPress: [CTRL DOWN]
+    KeyPress: t
+    KeyPress: [CTRL UP]
+    KeyPress: w
+    KeyPress: w
+    KeyPress: w
+    KeyPress: .
+    KeyPress: r
+    KeyPress: e
+    KeyPress: d
+    KeyPress: d
+    KeyPress: i
+    KeyPress: t
+    KeyPress: .
+    KeyPress: c
+    KeyPress: o
+    KeyPress: m
+    KeyPress: [ENTER]
+
+[2023-10-26 08:21:20] [APPLICATION: Chrome.exe] [WINDOW: reddit - Google Chrome]
+    KeyPress: [
+    KeyPress: SHIFT DOWN
